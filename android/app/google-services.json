@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481981726",
+    "project_id": "app-ssp-itsx",
+    "storage_bucket": "app-ssp-itsx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481981726:android:6a040b00fe2647bafc450f",
+        "android_client_info": {
+          "package_name": "com.ssp.app_ssp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAayV8K2WOXj_6c1vj0fm0bdnp6FveBhtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
